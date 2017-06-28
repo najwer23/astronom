@@ -9,12 +9,16 @@ Program do wyliczania wschodu, górowania i zachodu słońca na całym Świecie 
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+nieskończenie dużo miast, dane wejściowe w *.txt musza mieć ścisłą kolejność
+
+1 linia Nazwa miasta
+
+2 linia Szerokość geograficzna
+
+3 linia Długość geograficzna
+
+4 Przesunięcie czasowe
+
 
 ### Contribution guidelines ###
 
