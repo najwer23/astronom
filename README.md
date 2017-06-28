@@ -11,13 +11,13 @@ Program do wyliczania wschodu, górowania i zachodu słońca na całym Świecie 
 
 nieskończenie dużo miast, dane wejściowe w *.txt musza mieć ścisłą kolejność
 
-1 linia Nazwa miasta
+1. linia Nazwa miasta
 
-2 linia Szerokość geograficzna
+2. linia Szerokość geograficzna
 
-3 linia Długość geograficzna
+3. linia Długość geograficzna
 
-4 Przesunięcie czasowe
+4. linia Przesunięcie czasowe
 
 
 ### Contribution guidelines ###
